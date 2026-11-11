@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "fmr-001",
+      "phone": "+85512345678",
+      "password": "pass123",
+      "name": "H : Farmer",
+      "role": "farmer",
+      "verificationCode": "1111"
+    },
+    {
+      "id": "usr-002",
+      "phone": "+85599887766",
+      "password": "pass123",
+      "name": "J Customer",
+      "role": "customer",
+      "verificationCode": "1111"
+    },
+    {
+      "id": "usr-003",
+      "phone": "+85512345677",
+      "password": "pass123",
+      "name": "New Customer",
+      "role": "customer",
+      "verificationCode": "1111"
+    },
+    {
+      "id": "admin-01",
+      "phone": "+85511223344",
+      "password": "pass01",
+      "name": "Admin",
+      "role": "admin",
+      "verificationCode": "1111"
+    }
+  ]
+}
